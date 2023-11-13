@@ -1,4 +1,4 @@
-# Task 1: create function to run fastQC from terminal
+# Task 1: Create a function to run fastQC from terminal
 ### [1] Install fastQC dependencies
 Firstly, I need to install Java on my Windows system. To do so, I followed the instructions given here: https://phoenixnap.com/kb/install-java-windows. To test, in Git Bash terminal 
 ```nano JavaTest.sh``` was created where the following was written: 
